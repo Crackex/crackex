@@ -9,7 +9,3 @@
 <p align="left">This is mainly used to manage tasks and manage code efficiently. You may join our Minecraft server at mc.crackex.xyz.</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Crackex/Crackex/output/snake.svg" alt="Snake animation" />
-
-###
